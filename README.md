@@ -23,12 +23,20 @@ Here are some ideas to get you started:
   
 - -->
   
+  <div align="center">
+      <img src="https://metrics.lecoq.io/zyqaq412?template=classic&projects=1&activity=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=Asia%2FShanghai">
+      </img>
+  </div>
   
   
-  ![Metrics](https://metrics.lecoq.io/zyqaq412?template=classic&projects=1&activity=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=Asia%2FShanghai)
   
   
   
-  <div align="center">[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zyqaq412&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)</div>
+  <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=zyqaq412&show_icons=true&theme=vue">
+      </img>
+  </div>
+  
+  
   
   <a href="https://github.com/zyqaq412/MyBlog">MyBlog</a>：博客项目
