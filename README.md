@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-  <a herf="https://github.com/zyqaq412/MyBlog">MyBlog</a>：博客项目
+  <a href="https://github.com/zyqaq412/MyBlog">MyBlog</a>：博客项目
