@@ -33,6 +33,6 @@ Here are some ideas to get you started:
   <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zyqaq412" /> </div>
   ```
   
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zyqaq412&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+  <div align="center">[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zyqaq412&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)</div>
   
   <a href="https://github.com/zyqaq412/MyBlog">MyBlog</a>：博客项目
