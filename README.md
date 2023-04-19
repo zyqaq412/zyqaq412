@@ -32,9 +32,10 @@ Here are some ideas to get you started:
   ## 今年汇总 ✨
   
   <div align="center">
-      <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zyqaq412&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"/>
-      <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zyqaq412&hide=css,html,javascript,scss,vue,less&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+      <img align="" height="135px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zyqaq412&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"/>
+      <img align="" height="135px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zyqaq412&hide=css,html,javascript,scss,vue,less&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
   </div>
+  
   
   <div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zyqaq412&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" /> </div>
   
@@ -42,9 +43,15 @@ Here are some ideas to get you started:
   
   <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zyqaq412" /> </div>
   
+  <div id="xm"></div>
+  
+  
+  
+  
+  
   ## 项目介绍 ✨
   
-  <div id="xm"></div>
+  
   <table>
       <tr>
       	<td><a href="https://github.com/zyqaq412/MyBlog">MyBlog</a></td>
@@ -65,6 +72,7 @@ Here are some ideas to get you started:
           </td>
       </tr>
   </table>
+  
   
   
   
