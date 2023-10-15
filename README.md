@@ -4,7 +4,7 @@
 
 <a href="#xm">**项目简介** ✨</a>
 
-<h1 align="center"> <a href="https://blog.csdn.net/zxwyhzy"> <img src="https://readme-typing-svg.herokuapp.com/?lines=println(zyqaq412祝您今天愉快!;点我看看🧐&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://blog.csdn.net/zxwyhzy"> <img src="https://readme-typing-svg.herokuapp.com/?lines=zyqaq412祝您今天愉快!;点我看看🧐&center=true&size=27"> </a> </h1>
 
 ## 汇总 ✨
 
